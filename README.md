@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm John Gastone, a normal lad curious in embracing learning opportunities.
+I'm John Gastone, a normal lad who's always ready to embrace learning opportunities.
 
 - 🔭 I’m currently working on React Native Projects...
 - 🌱 I’m currently learning Dart and Flutter...
