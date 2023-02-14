@@ -15,4 +15,4 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 [![JohnGastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone)](https://github.com/johngastone/github-readme-stats)
 
-![JohnGastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&count_private=true)
+![JohnGastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&count_private=true&show_icons=true&theme=radical)
