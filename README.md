@@ -16,5 +16,5 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 ![John Gastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngastone&layout=default&theme=panda)](https://github.com/johngastone/github-readme-stats)
+[![Being Linguistic 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=johngastone&layout=default&theme=panda)](https://github.com/johngastone/github-readme-stats)
 
