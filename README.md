@@ -18,3 +18,4 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 [![Being Linguistic 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=johngastone&layout=default&theme=panda)](https://github.com/johngastone/github-readme-stats)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=johngastone.visitor-badge)
