@@ -18,4 +18,4 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 [![Being Linguistic 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=johngastone&layout=default&theme=panda)](https://github.com/johngastone/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=johngastone&color=pink)
+![](https://komarev.com/ghpvc/?username=johngastone&color=blue)
