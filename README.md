@@ -13,8 +13,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 ![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
 
-<a href="https://app.daily.dev/John_Gastone"><img src="https://api.daily.dev/devcards/28fc1a291e944d83b2647e76359f0882.png?r=o5f" width="400" alt="John Gastone's Dev Card"/></a>
-
+<a href="https://app.daily.dev/John_Gastone"><img src="https://api.daily.dev/devcards/28fc1a291e944d83b2647e76359f0882.png?r=iwk" width="400" alt="John Gastone's Dev Card"/></a>
 
 ![John Gastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&count_private=true&show_icons=true&theme=radical)
 
