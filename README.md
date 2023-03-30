@@ -11,6 +11,8 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 - ⚡ Fun fact: "Technology talks louder, try it!"...
 -->
 
+![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
+
 <a href="https://app.daily.dev/John_Gastone"><img src="https://api.daily.dev/devcards/28fc1a291e944d83b2647e76359f0882.png?r=o5f" width="400" alt="John Gastone's Dev Card"/></a>
 
 
@@ -18,6 +20,5 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 [![Being Linguistic 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=johngastone&layout=default&theme=panda)](https://github.com/johngastone/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
 [![John Gastone's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johngastone)](https://github.com/johngastone/github-readme-activity-graph)
 
