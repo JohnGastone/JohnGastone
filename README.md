@@ -16,6 +16,8 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 <a href="https://app.daily.dev/John_Gastone"><img src="https://api.daily.dev/devcards/28fc1a291e944d83b2647e76359f0882.png?r=iwk" width="400" alt="John Gastone's Dev Card"/></a>
 
 **< Tech Stack />**
+
+
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
