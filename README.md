@@ -29,7 +29,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark"/>
 
-< Reach Me Via />
+**< My Socials />**
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johngastone11)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-mahwaya-342645240/)
