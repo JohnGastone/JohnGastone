@@ -18,7 +18,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 **< Tech Stack />**
 
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,python,dart,r,html,css,nodejs,react,flutter,expressjs,vscode,androidstudio,figma,postgres,mongodb,mysql,firebase,github&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,python,dart,r,html,css,nodejs,react,flutter,expressjs,vscode,androidstudio,figma,postgres,mongodb,mysql,firebase,github&theme=dark&perline=6)](https://skillicons.dev)
 
 
 ![John Gastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&count_private=true&show_icons=true&theme=radical)
