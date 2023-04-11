@@ -27,4 +27,4 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 [![John Gastone's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johngastone&theme=github)](https://github.com/johngastone/github-readme-activity-graph)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark"/>
