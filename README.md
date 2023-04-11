@@ -31,6 +31,6 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 < Reach Me Via />
 
-[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zluvsand)
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johngastone11)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/john-mahwaya-342645240/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=spotify&logoColor=white)](https://twitter.com/DaddyCommunity?t=CIDJBtPLV5OgKR6Q-soY-A&s=09)
