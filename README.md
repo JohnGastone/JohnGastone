@@ -25,7 +25,6 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 [![Being Linguistic 😄](https://github-readme-stats.vercel.app/api/top-langs/?username=johngastone&layout=default&theme=panda)](https://github.com/johngastone/github-readme-stats)
 
-[![John Gastone's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=johngastone&theme=github-compact)](https://github.com/johngastone/github-readme-activity-graph)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark"/>
 
