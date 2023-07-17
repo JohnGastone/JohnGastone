@@ -25,7 +25,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&show_icons=true&theme=transparent&hide_border=true)
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark&hide_border=true"/>
 
 **< Socials />**
 
