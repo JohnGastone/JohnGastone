@@ -31,6 +31,10 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark&hide_border=true"/>
 
+**< WakaTime Stats />**
+
+<figure><embed src="https://wakatime.com/share/@f418b949-0739-4a15-8276-962cb32386c2/282b5147-6e50-46f1-82a6-623a86d28a63.svg"></embed></figure>
+
 **< Socials />**
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johngastone11)
