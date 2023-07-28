@@ -33,7 +33,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 **< WakaTime Stats />**
 
-<figure><embed src="https://wakatime.com/share/@f418b949-0739-4a15-8276-962cb32386c2/282b5147-6e50-46f1-82a6-623a86d28a63.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@f418b949-0739-4a15-8276-962cb32386c2/282b5147-6e50-46f1-82a6-623a86d28a63.svg"></embed>
 
 **< Socials />**
 
