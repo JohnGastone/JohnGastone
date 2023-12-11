@@ -11,6 +11,9 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 - ⚡ Fun fact: "Technology talks louder, try it!"...
 -->
 
+  [![committers.top badge](https://user-badge.committers.top/tanzania/USERNAME.svg)](https://user-badge.committers.top/tanzania/JohnGastone)
+
+
 ![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
 
 **< Literatures />**
