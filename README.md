@@ -11,7 +11,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 -->
 
 
-(https://user-badge.committers.top/tanzania/JohnGastone.svg)](https://user-badge.committers.top/tanzania/JohnGastone)
+![](https://user-badge.committers.top/tanzania/JohnGastone.svg)](https://user-badge.committers.top/tanzania/JohnGastone)
 
 
 ![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
