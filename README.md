@@ -2,9 +2,9 @@ Hi there 👋
 
 I'm John Gastone, a normal lad who's always ready to embrace learning opportunities.
 
-- 🌱 I’m currently learning and working on **Python** | **JavaScript** | **Dart** Projects
+- 🌱 I’m currently learning and working on **Python** | **JavaScript** | **Dart** projects.
 - 👯 I’m open to collaborating on cross-cutting Software development projects.
-- 📫 Reach out to me via : johngastone11@gmail.com **+255 786 849 280** | **+255 624 839 009**
+- 📫 Reach out to me via : johngastone11@gmail.com | **+255 786 849 280** | **+255 624 839 009**
 - 😄 Pronoun: "The goal is to return home happy".
 - ⚡ Fun fact: "Technology talks louder, try it!".
 -->
