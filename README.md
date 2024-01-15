@@ -6,8 +6,6 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 - 📫 Reach out to me via : johngastone11@gmail.com | **+255 786 849 280** | **+255 624 839 009**
 - 😄 Pronoun: "The goal is to return home happy".
 - ⚡ Fun fact: "Technology talks louder, try it!".
--->
-
 
 ![](https://user-badge.committers.top/tanzania/JohnGastone.svg)
 
