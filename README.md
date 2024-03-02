@@ -9,7 +9,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 ![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
 
-**< Github Contribution />**
+**< Committers Ranking />**
 
 ![](https://user-badge.committers.top/tanzania/JohnGastone.svg)
 - See other fellow contributors as you might be interested in them
