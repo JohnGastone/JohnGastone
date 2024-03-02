@@ -13,7 +13,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 ![](https://user-badge.committers.top/tanzania/JohnGastone.svg)
 - See other fellow contributors as you might be interested in them
-- https://committers.top/tanzania
+: https://committers.top/tanzania
 
 
 **< Literatures />**
