@@ -7,6 +7,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 - 😄 Pronoun: Mshua John.
 - ⚡ Fun fact: "The goal is to return home happy".
 
+**< Github Contribution /> **
 ![](https://user-badge.committers.top/tanzania/JohnGastone.svg)
 
 
