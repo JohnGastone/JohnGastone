@@ -10,6 +10,8 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 **< Github Contribution />**
 
 ![](https://user-badge.committers.top/tanzania/JohnGastone.svg)
+- See other fellow contributors as you might be interested in them
+- https://committers.top/tanzania
 
 
 ![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
