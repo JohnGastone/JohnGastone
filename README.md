@@ -18,7 +18,8 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 
 **< Literatures />**
 
-<a href="https://app.daily.dev/john_gastone"><img src="https://api.daily.dev/devcards/v2/Wp464TwCqrwlRVSRAuLYP.png?type=default&r=te2" width="356" alt="John Gastone's Dev Card"/></a>
+<a href="https://app.daily.dev/john_gastone"><img src="https://api.daily.dev/devcards/v2/Wp464TwCqrwlRVSRAuLYP.png?type=default&r=b92" width="356" alt="John Gastone's Dev Card"/></a>
+
 **< Tech Stack />**
 
 
