@@ -19,8 +19,7 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 **< Literatures />**
 
 
-<a href="https://app.daily.dev/john_gastone"><img src="https://api.daily.dev/devcards/v2/Wp464TwCqrwlRVSRAuLYP.png?type=default&r=ix2" width="356" alt="John Gastone's Dev Card"/></a>
-**< Tech Stack />**
+<a href="https://app.daily.dev/john_gastone"><img src="https://api.daily.dev/devcards/v2/Wp464TwCqrwlRVSRAuLYP.png?type=default&r=kyf" width="356" alt="John Gastone's Dev Card"/></a>**< Tech Stack />**
 
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,python,dart,r,html,css,nodejs,react,flutter,expressjs,vscode,androidstudio,figma,postgres,mongodb,mysql,firebase,github&theme=dark&perline=6)](https://skillicons.dev)
