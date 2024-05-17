@@ -15,6 +15,8 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 - See other fellow contributors as you might be interested in them
 : https://committers.top/tanzania
 
+**Wakatime chats**
+<figure><embed src="https://wakatime.com/share/@MshuaJohn/3694da29-2c4a-4b7d-8bc1-a0df5e0b89d7.svg"></embed></figure>
 
 **< Literatures />**
 
