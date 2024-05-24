@@ -15,6 +15,10 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 - See other fellow contributors as you might be interested in them
 : https://committers.top/tanzania
 
+**< Wakatime Badge />**
+
+<a href="https://wakatime.com/@f418b949-0739-4a15-8276-962cb32386c2"><img src="https://wakatime.com/badge/user/f418b949-0739-4a15-8276-962cb32386c2.svg" alt="Total time coded since Apr 23 2023" /></a>
+
 **< Literatures />**
 
 
