@@ -7,6 +7,8 @@ I'm John Gastone, a normal lad who's always ready to embrace learning opportunit
 - 😄 Pronoun: Mshua John.
 - ⚡ Fun fact: "The goal is to return home happy".
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ![](https://komarev.com/ghpvc/?username=johngastone&color=ff69b4)
 
 **< Committers Ranking />**
