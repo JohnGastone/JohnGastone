@@ -9,7 +9,7 @@
 : https://committers.top/tanzania
 
 **< Wakatime Badge />**
-(https://wakatime.com/badge/user/f418b949-0739-4a15-8276-962cb32386c2.svg)
+<a href="https://wakatime.com/@f418b949-0739-4a15-8276-962cb32386c2"><img src="https://wakatime.com/badge/user/f418b949-0739-4a15-8276-962cb32386c2.svg" alt="Total time coded since Apr 23 2023" /></a>
 
 **< Literatures />**
 
