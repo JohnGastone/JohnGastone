@@ -6,6 +6,7 @@
 
 ![](https://user-badge.committers.top/tanzania/JohnGastone.svg)
 - See other fellow contributors as you might be interested in them
+
 : https://committers.top/tanzania
 
 **< Wakatime Badge />**
