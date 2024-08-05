@@ -16,7 +16,7 @@
 **< Literatures />**
 
 
-<a href="https://app.daily.dev/mshuajohn"><img src="https://api.daily.dev/devcards/v2/Wp464TwCqrwlRVSRAuLYP.png?type=default&r=2a9" width="356" alt="John Gastone's Dev Card"/></a>
+<a href="https://app.daily.dev/mshuajohn"><img src="https://api.daily.dev/devcards/v2/Wp464TwCqrwlRVSRAuLYP.png?type=default&r=c0q" width="356" alt="John Gastone's Dev Card"/></a>
 
 **< Tech Stack />**
 
