@@ -5,8 +5,8 @@
 **< Committers Ranking />**
 
 ![](https://user-badge.committers.top/tanzania/JohnGastone.svg)
-- See other contributors as you might be interested in them
-
+- See other contributors as you might be interested in them:
+  
  https://committers.top/tanzania
 
 **< Wakatime Badge />**
