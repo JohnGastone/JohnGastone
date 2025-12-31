@@ -26,6 +26,7 @@
 
 **< Stats />**
 
+[![John Gastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone)](https://github.com/johngastone/github-readme-stats)
 ![John Gastone's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&show_icons=true&theme=transparent&hide_border=true)
 
 **< Coding Streak />**
