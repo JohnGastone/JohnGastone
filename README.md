@@ -27,8 +27,7 @@ https://ccommiters.top/tanzania
 
 
 **< Stats />**
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngastone&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 **< Coding Streak />**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark&hide_border=true"/>
