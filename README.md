@@ -26,10 +26,6 @@ https://ccommiters.top/tanzania
 [![My Skills](https://skillicons.dev/icons?i=javascript,python,dart,r,html,css,nodejs,react,flutter,expressjs,vscode,androidstudio,figma,postgres,mongodb,mysql,firebase,github&theme=dark&perline=6)](https://skillicons.dev)
 
 
-**< Coding Streak />**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=johngastone&theme=dark&hide_border=true"/>
-
 **< Socials />**
 
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@johngastone11)
