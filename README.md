@@ -21,7 +21,8 @@ https://ccommiters.top/tanzania
 <a href="https://app.daily.dev/mshuajohn"><img src="https://api.daily.dev/devcards/v2/Wp464TwCqrwlRVSRAuLYP.png?type=default&r=uxl" width="356" alt="John Gastone's Dev Card"/></a>
 
 **< Currently Learning Activity />**
-<a href="https://roadmap.sh/u/johngastone?roadmapId=react" /></a>
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/646b2c0bcb6301e67f87f2f1?variant=dark" alt="roadmap.sh"/></a>
 
 **< Tech Stack />**
 
