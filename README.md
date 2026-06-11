@@ -37,4 +37,10 @@ https://ccommiters.top/tanzania
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mshuajohn?t=CIDJBtPLV5OgKR6Q-soY-A&s=09)
 
 **< Last Seven Days Activity />**
-<figure><embed src="https://wakatime.com/share/@MshuaJohn/7d8ea063-7808-43b6-a2e6-3ee3a5ad8b32.svg"></embed></figure>
+<p align="center">
+  <img
+    src="https://wakatime.com/share/@MshuaJohn/7d8ea063-7808-43b6-a2e6-3ee3a5ad8b32.svg"
+    alt="WakaTime Stats"
+    width="700"
+  />
+</p>
